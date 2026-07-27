@@ -8,7 +8,7 @@ middle_name: A.
 last_name: Dannert
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Felix A. Dannert, Lead Instrument Scientist for the LIFE Space Mission at ETH Zurich. Exoplanet direct imaging through nulling interferometry.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -100,9 +100,9 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
