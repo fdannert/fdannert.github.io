@@ -33,6 +33,6 @@ As Lead Instrument Scientist of the LIFE Space Mission at <a href='https://quanz
 
 In 2025, I defended <a href='https://doi.org/10.3929/ethz-c-000788668'>my PhD</a> in astrophysics at ETH Zürich, working on infrared direct imaging of exoplanets. Along the way, I hunted for exoplanets with the Very Large Telescope (VLT), helped commission the VLT instrument ERIS, and began developing the instrument simulators for the LIFE Space Mission.
 
-Enabling students to make 'first contact' (pun intended) with astrophysics is something I care about deeply, and I'm proud of the progress we made with the Lecture Series: Space Research and Exploration at ETH Zürich.
+Enabling students to make 'first contact' (pun intended) with astrophysics is something I care about deeply, and I'm proud of the progress we made with the <a href='https://spacelectureseries.netlify.app'>Lecture Series: Space Research and Exploration</a> at ETH Zürich.
 
 Space, telescopes, teaching, exoplanets: I'm always excited to chat about any of it, so please feel free to reach out via email.
